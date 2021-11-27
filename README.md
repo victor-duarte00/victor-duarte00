@@ -3,7 +3,7 @@
   Oi, eu sou o Victor Duarte, sou apaixonado por tecnologia e programação. 
 </p>  
 <p align="left">   
-  🦄 Linguagens: <strong>JavaScript | HTML | CSS </strong> 
+ ✏️ Linguagens: <strong>JavaScript || HTML || CSS </strong> 
 </p>  
 <p align="left"> 
   💼 Ferramentas: <strong>Visual Studio Code</strong> 
