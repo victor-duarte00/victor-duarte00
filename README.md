@@ -5,9 +5,6 @@
 <p align="left">   
  ✏️ Linguagens: <strong>JavaScript || HTML || CSS </strong> 
 </p>  
-<p align="left"> 
-  💼 Ferramentas: <strong>Visual Studio Code</strong> 
-</p>  
 <p align="left">  
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️ 
 </p>  
